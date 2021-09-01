@@ -268,23 +268,28 @@ nav{
 }
 
 .story1{
-    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(D:/Social%20Book/Socialbook_img/Socialbook_img/status-1.png);
+    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), 
+    url(D:/Social%20Book/Socialbook_img/Socialbook_img/status-1.jpeg);
 }
 
 .story2{
-    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(D:/Social%20Book/Socialbook_img/Socialbook_img/status-2.png);
+    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), 
+    url(D:/Social%20Book/Socialbook_img/Socialbook_img/status-2.jpeg);
 }
 
 .story3{
-    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(D:/Social%20Book/Socialbook_img/Socialbook_img/status-3.png);
+    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), 
+    url(D:/Social%20Book/Socialbook_img/Socialbook_img/status-3.jpeg);
 }
 
 .story4{
-    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(D:/Social%20Book/Socialbook_img/Socialbook_img/status-4.png);
+    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), 
+    url(D:/Social%20Book/Socialbook_img/Socialbook_img/status-4.jpeg);
 }
 
 .story5{
-    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(D:/Social%20Book/Socialbook_img/Socialbook_img/status-5.png);
+    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), 
+    url(D:/Social%20Book/Socialbook_img/Socialbook_img/status-5.jpeg);
 }
 
 .story1 img{
